@@ -1,0 +1,7 @@
+{
+      "files.associations": {
+            "thread": "cpp",
+            "algorithm": "cpp",
+            "utility": "cpp"
+      }
+}
